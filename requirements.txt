@@ -41,7 +41,6 @@ fastjsonschema==2.21.1
 ffmpy==0.5.0
 filelock==3.17.0
 fire==0.7.0
-flash_attn==2.7.4.post1
 fonttools==4.56.0
 fqdn==1.5.1
 frozenlist==1.5.0
@@ -221,3 +220,4 @@ Werkzeug==3.1.3
 wget==3.2
 widgetsnbextension==4.0.13
 yarl==1.18.3
+flash_attn==2.7.4.post1
